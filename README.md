@@ -1,1 +1,1 @@
-# miniature-octo-couscous
+git add . → git commit -m "message" → git push-octo-couscous
